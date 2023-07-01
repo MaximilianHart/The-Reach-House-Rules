@@ -1,5 +1,4 @@
 # General
-
 - **Timekeeping**: Every day that passes during a session is tracked, and one day passes in-game per every real-life day. The current calendar will be pinned in # adventure-journals and visible in Foundry.
 - **Sessions must end in safety**: Sessions must end with the PCs in a place of safety. (See "Escaping the Dungeon" below.) 
 
