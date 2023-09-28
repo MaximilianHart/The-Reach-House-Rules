@@ -16,11 +16,11 @@
 - **To Hit**: Attacks may be resolved using your “to hit” bonus instead of the attack matrix.
 - Your class's **Hit Die = your base weapon damage** (e.g., Fighters d8, Clerics d6, Magic-Users d4).
 - At each Attack Bonus increase, your base **weapon damage improves** by one step, as follows:
--   1st Bracket – 1dN where N=Class's Hit Die
--   2nd Bracket – 1 die type up (e.g., 1d6 -> 1d8).
--   3rd Bracket – 2dN
-    ◦ 4th Bracket – 3dN
-    ◦ 5th Bracket – 4dN
+  - 1st Bracket – 1dN where N=Class's Hit Die
+  - 2nd Bracket – 1 die type up (e.g., 1d6 -> 1d8).
+  - 3rd Bracket – 2dN
+  - 4th Bracket – 3dN
+  - 5th Bracket – 4dN
 - **All classes can use all weapons**, except clerics (only blunt), knights (only melee), and small classes (cannot use longbows and two-handed swords).
 - **Fighting Styles**: Classes with Dexterity as a prime requisite and a Dexterity score of 13+ can attack with two weapons (at least the off-hand weapon must have the Light property)–you still get just the one attack roll, but it’s +1 to hit. Classes with Strength as a prime requisite and a Strength score of 13+ deal +1 damage when wielding a two-handed melee weapon.
 - A **Shield** grants a +1 bonus to AC, and can absorb the damage from a single blow, but then is rendered useless. Magic shields can absorb a total number of blows equal to their enchantment bonus, which diminishes one step for each blow it absorbs. The attack must be something that could logically be stopped by a shield.
