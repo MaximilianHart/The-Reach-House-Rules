@@ -32,35 +32,35 @@
 - **Fighters** gain weapon specialization points that grants +1 to hit and damage to weapons of a particular type (e.g., swords, crossbows, axes, etc.), which can be stacked. They gain one weapon specialization point at 1st, 4th, 7th, 10th, and 13th levels.
 - A **Thief** who successfully Backstabs deals 12 + STR mod flat damage. 
 - **Magic-Users** and **Illusionists** use the optional Advanced Spellbook Rules (pg. 124). In addition:
-    ◦ Magic-Users and Illusionists gain Read Magic for free; other starting spells are rolled randomly.
-    ◦ Magic-Users and Illusionists can attempt to create magic items at any level.
-    ◦ If a Magic-User or Illusionist fails to learn a spell, they can attempt to learn it again if a) they gain a level, or b) they come across a different instance of the spell.
-    ◦ Magical classes may create scrolls of spells that they know for 100 gp + 1 week of time per spell level. They may research new known spells as detailed in the rules for Magical Research. They may transcribe spell scrolls they find by rolling 1d20, adding their level and INT mod (using same scale as STR melee mod). If the result is equal to or greater than 20, they learn the spell and can add it to their spellbook or, for divine casters, list of available spells. It takes 1 day of in-game time per spell level, and three tries are allowed (three failures means the scroll's magic has been dissipated, and it is destroyed).
-    • Thieves, Acrobats, Assassins, and Barbarians: All N-in-6 skills begin with a 1-in-6 chance of success. These classes gain expertise points as indicated below to allocate however they choose. Each point allocated to a skill improves the chance of success by 1-in-6. No skill using this system can ever increase beyond a 5 in 6 chance.
-        ◦ Thief: At 1st level, 6 expertise points to allocate. Every level thereafter, +2 points to allocate. 
-        ◦ Acrobat: At 1st level, 4 expertise points to allocate. Every level thereafter, +1 point to allocate.
-        ◦ Assassin: At 1st level, 3 expertise points to allocate. Every level thereafter, +1 point to allocate, except at levels 5, 10, and 14. 
-        ◦ Barbarian: At 1st level, 3 expertise points to allocate. Every odd-numbered level thereafter, a +1 point to allocate.
+  - Magic-Users and Illusionists gain Read Magic for free; other starting spells are rolled randomly.
+  - Magic-Users and Illusionists can attempt to create magic items at any level.
+  - If a Magic-User or Illusionist fails to learn a spell, they can attempt to learn it again if a) they gain a level, or b) they come across a different instance of the spell.
+  - Magical classes may create scrolls of spells that they know for 100 gp + 1 week of time per spell level. They may research new known spells as detailed in the rules for Magical Research. They may transcribe spell scrolls they find by rolling 1d20, adding their level and INT mod (using same scale as STR melee mod). If the result is equal to or greater than 20, they learn the spell and can add it to their spellbook or, for divine casters, list of available spells. It takes 1 day of in-game time per spell level, and three tries are allowed (three failures means the scroll's magic has been dissipated, and it is destroyed).
+- Thieves, Acrobats, Assassins, and Barbarians: All N-in-6 skills begin with a 1-in-6 chance of success. These classes gain expertise points as indicated below to allocate however they choose. Each point allocated to a skill improves the chance of success by 1-in-6. No skill using this system can ever increase beyond a 5 in 6 chance.
+  - Thief: At 1st level, 6 expertise points to allocate. Every level thereafter, +2 points to allocate.
+  - Acrobat: At 1st level, 4 expertise points to allocate. Every level thereafter, +1 point to allocate.
+  - Assassin: At 1st level, 3 expertise points to allocate. Every level thereafter, +1 point to allocate, except at levels 5, 10, and 14.
+  - Barbarian: At 1st level, 3 expertise points to allocate. Every odd-numbered level thereafter, a +1 point to allocate.
 
 ---
 
 # Additional XP Sources
 **Feats of Exploration**: Total the sum of how much XP all PCs need to advance from the start of the level at which they are currently to the next level. When a PC achieves a feat, the entire party is awarded the percentage listed of that total, which is then divided among the PCs present.
-    • Rumor: Confirm a rumor’s veracity - 2%
-    • Quest: Complete a quest - Minor 5%, Major 10%
-    • Location: Discover an important location – 5%
-    • Trap: Overcome a trap - Minor 2%, Major 5%
-    • Puzzle: Solve a puzzle - Minor 2%, Major 5%
-    • Secret: Find a secret or interpret hidden lore - 2%
-    • Faction: Manipulating or crippling a faction to your benefit - Minor 5%, Major 10%
-    • NPC: Interact beneficially with an important NPC when stakes are at play - 5%
-    • Lore: Apply in-world lore in a useful or flavorful manner - 2%
-    • Haven: Establish a reliable safe haven - 10%
-    • Explore: Explore at least five areas of a single dungeon level - 2%
-    • Explore: Explore at least five hexes of the overworld map (taking the quarter day action for each). - 2%
-    • Skills: Use equipment or abilities in an unorthodox yet useful manner - Minor 2%, Major 5%
-    • Hazards: Surmount an environmental obstacle or hazard - Minor 2%, Major 5% 
-    • Journal: Post (loosely) in-character writeup/recap/notes of the prior session in the #adventure-journals channel of our Discord before the day of the next session – 1% 
+- Rumor: Confirm a rumor’s veracity - 2%
+- Quest: Complete a quest - Minor 5%, Major 10%
+- Location: Discover an important location – 5%
+- Trap: Overcome a trap - Minor 2%, Major 5%
+- Puzzle: Solve a puzzle - Minor 2%, Major 5%
+- Secret: Find a secret or interpret hidden lore - 2%
+- Faction: Manipulating or crippling a faction to your benefit - Minor 5%, Major 10%
+- NPC: Interact beneficially with an important NPC when stakes are at play - 5%
+- Lore: Apply in-world lore in a useful or flavorful manner - 2%
+- Haven: Establish a reliable safe haven - 10%
+- Explore: Explore at least five areas of a single dungeon level - 2%
+- Explore: Explore at least five hexes of the overworld map (taking the quarter day action for each). - 2%
+- Skills: Use equipment or abilities in an unorthodox yet useful manner - Minor 2%, Major 5%
+- Hazards: Surmount an environmental obstacle or hazard - Minor 2%, Major 5% 
+- Journal: Post (loosely) in-character writeup/recap/notes of the prior session in the #adventure-journals channel of our Discord before the day of the next session – 1% 
 
 PC Death: Each surviving member of the party receives 100 XP per level of the dead character once they return to safety. However, the experience can comes with lingering mental trauma. Each survivor must save vs. Paralysis or acquire a fear of the monster, trap, or situation that caused the death. If a PC acquires a fear, any time the subject of the fear is encountered again, the PC must make a save vs. Paralysis on the spot or “freeze up” and suffer a -2 to all rolls while facing the situation. Multiple fears of the same monster/trap/situation can stack! A PC can deal with their fear (permanently remove it) by spending gold pieces in town (drinking, partying, gambling, praying, tithing, etc.) equal to the amount of XP gained. 
 
