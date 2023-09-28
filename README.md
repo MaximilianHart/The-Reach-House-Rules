@@ -1,5 +1,6 @@
 # General
 - **Timekeeping**: Every day that passes during a session is tracked, and one day passes in-game per every real-life day. The current calendar will be pinned in # adventure-journals and visible in Foundry.
+- **Retainers**: The price to locate retainer applicants doubles if any retainers died in your character's care since the last hiring. Your previous retainers can be automatically re-hired for the same wages, assuming they passed their loyalty check at the end of the previous adventure.
 
 ---
 
@@ -12,7 +13,6 @@
 ---
 
 # Combat
-
 - **To Hit**: Attacks may be resolved using your “to hit” bonus instead of the attack matrix.
 - Your class's **Hit Die = your base weapon damage** (e.g., Fighters d8, Clerics d6, Magic-Users d4).
 - At each Attack Bonus increase, your base **weapon damage improves** by one step, as follows:
@@ -36,11 +36,11 @@
   - Magic-Users and Illusionists can attempt to create magic items at any level.
   - If a Magic-User or Illusionist fails to learn a spell, they can attempt to learn it again if a) they gain a level, or b) they come across a different instance of the spell.
   - Magical classes may create scrolls of spells that they know for 100 gp + 1 week of time per spell level. They may research new known spells as detailed in the rules for Magical Research. They may transcribe spell scrolls they find by rolling 1d20, adding their level and INT mod (using same scale as STR melee mod). If the result is equal to or greater than 20, they learn the spell and can add it to their spellbook or, for divine casters, list of available spells. It takes 1 day of in-game time per spell level, and three tries are allowed (three failures means the scroll's magic has been dissipated, and it is destroyed).
-- Thieves, Acrobats, Assassins, and Barbarians: All N-in-6 skills begin with a 1-in-6 chance of success. These classes gain expertise points as indicated below to allocate however they choose. Each point allocated to a skill improves the chance of success by 1-in-6. No skill using this system can ever increase beyond a 5 in 6 chance.
-  - Thief: At 1st level, 6 expertise points to allocate. Every level thereafter, +2 points to allocate.
-  - Acrobat: At 1st level, 4 expertise points to allocate. Every level thereafter, +1 point to allocate.
-  - Assassin: At 1st level, 3 expertise points to allocate. Every level thereafter, +1 point to allocate, except at levels 5, 10, and 14.
-  - Barbarian: At 1st level, 3 expertise points to allocate. Every odd-numbered level thereafter, a +1 point to allocate.
+- **Thieves**, **Acrobats**, **Assassins**, and **Barbarians**: All N-in-6 skills begin with a 1-in-6 chance of success. These classes gain expertise points as indicated below to allocate however they choose. Each point allocated to a skill improves the chance of success by 1-in-6. No skill using this system can ever increase beyond a 5 in 6 chance.
+  - **Thief**: At 1st level, 6 expertise points to allocate. Every level thereafter, +2 points to allocate.
+  - **Acrobat**: At 1st level, 4 expertise points to allocate. Every level thereafter, +1 point to allocate.
+  - **Assassin**: At 1st level, 3 expertise points to allocate. Every level thereafter, +1 point to allocate, except at levels 5, 10, and 14.
+  - **Barbarian**: At 1st level, 3 expertise points to allocate. Every odd-numbered level thereafter, a +1 point to allocate.
 
 ---
 
