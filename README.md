@@ -8,7 +8,7 @@
 - Roll **3d6 down the line twice** for each of your character’s ability scores: Strength, Intelligence, Wisdom, Dexterity, Constitution, and Charisma, which gives you two characters’ stats. Decide which of the two sets will be your primary (starting) character, and which will be secondary.
 - A first level character starts with a **minimum hit point total** equal to the average starting hit point roll (3, 4, or 5).
 - You can choose a **quick equipment pack** (see Foundry) to get a new character equipped quickly.
-- **Basic encumbrance**: Only treasure counts, and you can carry as much as you have containers for, up to 1600 coins.
+- **Detailed Encumbrance**: Treasure, weapons, and armor count toward encumbrance, movement speed is based on your weight carried, and you can carry as much as you have containers for, up to 1600 coins.
   
 ---
 
