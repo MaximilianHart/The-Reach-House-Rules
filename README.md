@@ -78,4 +78,19 @@ If a PC donates a total of more than 600gp in a single village, 1200 in a town, 
 | 5 | Your generosity is lauded by the populace. +1 to social rolls in this settlement. |
 | 6 | Your name is recognized by everyone within 30 miles. +1 to social rolls within this area, and mundane goods are 10% cheaper. |
 
+---
 
+# Wilderness Travel
+The party has multiple activities in which they can engage in the wilderness:
+- Travel Activities. The party can travel for two quarter days, three if forced march (they must rest a whole day afterwards). Each character (incl. retainers) can perform only one activity:
+  - Forage: 1-in-6 chance to find food for 1d6 humans (Rangers & Barbarians have a 2-in-6 chance).
+  - Navigate: Decreases this chance of being lost by 1, to a minimum of 1-in-6.
+  - Keep Watch: Each character keeping watch reduces the 4-in-6 chance of being surprised in an encounter by 1, to a minimum of 1-in-6.
+  - Make a Map: Decreases the chance of being lost by 1, to a minimum of 1-in-6.
+- Quarter Day Activities. Cannot travel during that quarter day (6 hrs). Hazard dice are rolled as usual.
+  - Explore: Explore the area to uncover any hidden features it might have.
+  - Hunt: 1-in-6 chance to encounter animals suitable for eating (1d4xHD rations) in the wild. A Barbarian or Ranger has a 5-in-6 chance. Especially well-stocked hunting grounds also increases this chance by +1-3.
+  - Forage: Several adventurers can forage at once, each having a 1-in-6 chance of finding 1d6 standard rations' worth of food. Rangers & Barbarians have a 2-in-6 chance.
+  - Rest/Sleep: Characters must rest for one quarter day each day or suffer a cumulative penalty of -1 to hit, damage, save, and skill rolls each quarter day until they have rested. Each quarter day's rest will remove 1 point from that penalty.
+- Day Activities. Takes an entire day, during which the party cannot travel:
+   - Rest: Characters must rest for one day per six days of travel or suffer a penalty of -1 to hit and damage rolls until they have rested for one full day. Only hazard dice are rolled, ignoring any 5s. 
