@@ -16,9 +16,9 @@
 - **To Hit**: Attacks may be resolved using your “to hit” bonus instead of the attack matrix.
 - Your class's **Hit Die = your base weapon damage** (e.g., Fighters d8, Clerics d6, Magic-Users d4).
 - At each Attack Bonus increase, your base **weapon damage improves** by one step, as follows:
-    ◦ 1st Bracket – 1dN where N=Class's Hit Die
-    ◦ 2nd Bracket – 1 die type up (e.g., 1d6 -> 1d8).
-    ◦ 3rd Bracket – 2dN
+-   1st Bracket – 1dN where N=Class's Hit Die
+-   2nd Bracket – 1 die type up (e.g., 1d6 -> 1d8).
+-   3rd Bracket – 2dN
     ◦ 4th Bracket – 3dN
     ◦ 5th Bracket – 4dN
 - **All classes can use all weapons**, except clerics (only blunt), knights (only melee), and small classes (cannot use longbows and two-handed swords).
