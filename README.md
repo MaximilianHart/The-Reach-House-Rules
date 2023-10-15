@@ -1,6 +1,7 @@
 # General
 - **Timekeeping**: Every day that passes during a session is tracked, and one day passes in-game per every real-life day. The current calendar will be pinned in # adventure-journals and visible in Foundry.
 - **Retainers**: The price to locate retainer applicants doubles if any retainers died in your character's care since the last hiring. Your previous retainers can be automatically re-hired for the same wages, assuming they passed their loyalty check at the end of the previous adventure.
+- **Silver standard**: We use a "silver standard" - just treat every "gp" you see in the books as "sp," and every "sp" as "cp."
 
 ---
 
