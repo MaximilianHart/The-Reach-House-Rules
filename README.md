@@ -36,8 +36,8 @@
 - **Magic-Users** and **Illusionists** use the optional Advanced Spellbook Rules (pg. 124). In addition:
   - Magic-Users and Illusionists gain Read Magic for free; other starting spells are rolled randomly.
   - Magic-Users and Illusionists can attempt to create magic items at any level.
-  - If a Magic-User or Illusionist fails to learn a spell, they can attempt to learn it again if a) they gain a level, or b) they come across a different instance of the spell.
-  - Magical classes may create scrolls of spells that they know for 100 sp + 1 week of time per spell level. They may research new known spells as detailed in the rules for Magical Research. They may transcribe spell scrolls they find by rolling 1d20, adding their level and INT mod (using same scale as STR melee mod). If the result is equal to or greater than 20, they learn the spell and can add it to their spellbook or, for divine casters, list of available spells. It takes 1 day of in-game time per spell level, and three tries are allowed (three failures means the scroll's magic has been dissipated, and it is destroyed).
+  - If a Magic-User or Illusionist fails to learn a spell, they can attempt to learn it again if a) they gain a level, or b) they come across a different instance of the spell. It takes 1 day of in-game time per spell level to transcribe a found spell. 
+  - Magical classes may create scrolls of spells that they know for 500 sp + 1 week of time per spell level.
 - **Thieves**, **Acrobats**, **Assassins**, and **Barbarians**: All N-in-6 skills begin with a 1-in-6 chance of success. These classes gain expertise points as indicated below to allocate however they choose. Each point allocated to a skill improves the chance of success by 1-in-6. No skill using this system can ever increase beyond a 5 in 6 chance.
   - **Thief**: At 1st level, 6 expertise points to allocate. Every level thereafter, +2 points to allocate.
   - **Acrobat**: At 1st level, 4 expertise points to allocate. Every level thereafter, +1 point to allocate.
