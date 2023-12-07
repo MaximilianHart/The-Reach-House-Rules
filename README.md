@@ -46,6 +46,13 @@
 
 ---
 
+# Magical Crafting & Research
+Creating magic items may require special components for each spell effect in the item. If you have a formula when you begin creating the item, you know what those components are; otherwise, if you do not have a formula, you will learn any special components required when the work is 50% complete. The referee will determine the specific components required for each item. Different formulas for the same item may require different components. For instance, one formula for a wand of fireball might require the fangs of 20 hellhounds, while another formula for a wand of fireball might require the ichor of four efreeti.
+
+If you have or obtain those special components, you can use them in your crafting and deduct double the XP value of the monster from which they came from the total SP cost to craft the item. Otherwise, you can simply spend the SP to abstract & acquire the components. Along with this, harvesting a monster's carcass for components can be hit or miss: you don't know what's usable without a formula. At the referee's discretion, harvested monster parts can be worth up to the monster's XP value in silver pieces when sold to the right buyer. 
+
+For example, a +1 shield might require scales from a black dragon (1250XP). While it might normally cost 10,000sp and 1 month of crafting, if you obtain the black dragon scales, you can use those and spend only 7500sp to complete the craft. When sold to the right buyer, however, that black dragon's scales could sell for up to 1250sp.
+
 # Additional XP Sources
 **Feats of Exploration**: Total the sum of how much XP all PCs need to advance from the start of the level at which they are currently to the next level. When a PC achieves a feat, the entire party is awarded the percentage listed of that total, which is then divided among the PCs present.
 - **Rumor**: Confirm a rumor’s veracity - 2%
