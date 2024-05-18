@@ -2,7 +2,7 @@
 - **Timekeeping**: Every day that passes during a session is tracked, and one day passes in-game per every real-life day. The current calendar will be pinned in # adventure-journals and visible in Foundry.
 - **Retainers**: The price to locate retainer applicants doubles if any retainers died in your character's care since the last hiring. Your previous retainers can be automatically re-hired for the same wages, assuming they passed their loyalty check at the end of the previous adventure.
 - **Silver standard**: We use a "silver standard" - just treat every "gp" you see in the books as "sp," and every "sp" as "cp."
-- **Encumbrance**: We use detailed encumbrance (option 2 on pg. 215 of the *Advanced Fantasy Player's Tome*), which tracks armor & weapon weight plus treasure, but instead of counting equipment as a flat 80 coins, we just subtract 80 coins from the maximum carry capacity (it ends up the same, but it's easier on Foundry to do it this way).
+- **Encumbrance**: We use detailed encumbrance (option 2 on pg. 215 of the *Advanced Fantasy Player's Tome*), which tracks armor & weapon weight plus treasure.
 
 ---
 
@@ -37,7 +37,7 @@
   - Magic-Users and Illusionists gain Read Magic for free; other starting spells are rolled randomly.
   - Magic-Users and Illusionists can attempt to create magic items at any level.
   - If a Magic-User or Illusionist fails to learn a spell, they can attempt to learn it again if a) they gain a level, or b) they come across a different instance of the spell. It takes 1 day of in-game time per spell level to transcribe a found spell. 
-  - Magical classes may create scrolls of spells that they know for 500 sp + 1 week of time per spell level.
+- Magical classes may create scrolls of spells that they know for 500 sp + 1 week of time per spell level.
 - **Thieves**, **Acrobats**, **Assassins**, and **Barbarians**: All N-in-6 skills begin with a 1-in-6 chance of success. These classes gain expertise points as indicated below to allocate however they choose. Each point allocated to a skill improves the chance of success by 1-in-6. No skill using this system can ever increase beyond a 5 in 6 chance.
   - **Thief**: At 1st level, 6 expertise points to allocate. Every level thereafter, +2 points to allocate.
   - **Acrobat**: At 1st level, 4 expertise points to allocate. Every level thereafter, +1 point to allocate.
@@ -47,6 +47,8 @@
 ---
 
 # Magical Crafting & Research
+The standard chance of successfully completing magical research is the same as the chance of copying a spell into a spellbook (pg. 124). Magical research for a divine caster is modified by their Wisdom instead of Intelligence. This chance may be modified by circumstances such as the availability of a magical college, university, or outstanding library.
+
 Creating magic items may require special components for each spell effect in the item. If you have a formula when you begin creating the item, you know what those components are; otherwise, if you do not have a formula, you will learn any special components required when the work is 50% complete. The referee will determine the specific components required for each item. Different formulas for the same item may require different components. For instance, one formula for a wand of fireball might require the fangs of 20 hellhounds, while another formula for a wand of fireball might require the ichor of four efreeti.
 
 If you have or obtain those special components, you can use them in your crafting and deduct double the XP value of the monster from which they came from the total SP cost to craft the item. Otherwise, you can simply spend the SP to abstract & acquire the components. Along with this, harvesting a monster's carcass for components can be hit or miss: you don't know what's usable without a formula. At the referee's discretion, harvested monster parts can be worth up to the monster's XP value in silver pieces when sold to the right buyer. 
